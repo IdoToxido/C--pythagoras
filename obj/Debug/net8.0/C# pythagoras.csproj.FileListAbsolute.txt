@@ -1,0 +1,14 @@
+C:\Users\user\C# pythagoras\bin\Debug\net8.0\C# pythagoras.exe
+C:\Users\user\C# pythagoras\bin\Debug\net8.0\C# pythagoras.deps.json
+C:\Users\user\C# pythagoras\bin\Debug\net8.0\C# pythagoras.runtimeconfig.json
+C:\Users\user\C# pythagoras\bin\Debug\net8.0\C# pythagoras.dll
+C:\Users\user\C# pythagoras\bin\Debug\net8.0\C# pythagoras.pdb
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.AssemblyInfoInputs.cache
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.AssemblyInfo.cs
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.csproj.CoreCompileInputs.cache
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.dll
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\refint\C# pythagoras.dll
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.pdb
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\C# pythagoras.genruntimeconfig.cache
+C:\Users\user\C# pythagoras\obj\Debug\net8.0\ref\C# pythagoras.dll
